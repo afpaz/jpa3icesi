@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+              http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5"
+         xmlns="http://java.sun.com/xml/ns/javaee">
+
+  <!-- Servlets -->
+  
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>SAMI_WEB.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+  	<servlet-name>CompetenciasService</servlet-name>
+  	<servlet-class>co.edu.unicesi.sami.server.CompetenciasServiceImpl</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>CompetenciasService</servlet-name>
+  	<url-pattern>/sami_web/CompetenciasService</url-pattern>
+  </servlet-mapping>
+    <servlet>
+  	<servlet-name>CursoService</servlet-name>
+  	<servlet-class>co.edu.unicesi.sami.server.CursoServiceImpl</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>CursoService</servlet-name>
+  	<url-pattern>/sami_web/CursoService</url-pattern>
+  </servlet-mapping>  
+    <servlet>
+  	<servlet-name>ListadosService</servlet-name>
+  	<servlet-class>co.edu.unicesi.sami.server.ListadosServiceImpl</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ListadosService</servlet-name>
+  	<url-pattern>/sami_web/ListadosService</url-pattern>
+  </servlet-mapping> 
+    <servlet>
+  	<servlet-name>PlanificadorService</servlet-name>
+  	<servlet-class>co.edu.unicesi.sami.server.PlanificadorServiceImpl</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>PlanificadorService</servlet-name>
+  	<url-pattern>/sami_web/PlanificadorService</url-pattern>
+  </servlet-mapping>
+</web-app>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0"
+	xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+	<persistence-unit name="SAMI-JPA">
+		<jta-data-source>bd_sam</jta-data-source>
+		<class>co.edu.unicesi.sami.entidades.Curso</class>
+		<class>co.edu.unicesi.sami.entidades.Material</class>
+		<class>co.edu.unicesi.sami.entidades.MetaTerminal</class>
+		<class>co.edu.unicesi.sami.entidades.ObjetivoEspecifico</class>
+		<class>co.edu.unicesi.sami.entidades.ObjetivoGeneral</class>
+		<class>co.edu.unicesi.sami.entidades.ObjetivoTerminal</class>
+		<class>co.edu.unicesi.sami.entidades.Recurso</class>
+		<class>co.edu.unicesi.sami.entidades.RecursoAsignado</class>
+		<class>co.edu.unicesi.sami.entidades.Saber</class>
+		<class>co.edu.unicesi.sami.entidades.Sesion</class>
+		<class>co.edu.unicesi.sami.entidades.TrabajoAsignado</class>
+		<class>co.edu.unicesi.sami.entidades.Unidad</class>		
+	</persistence-unit>
+</persistence>
