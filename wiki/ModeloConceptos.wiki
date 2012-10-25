@@ -1,0 +1,3 @@
+#summary Diagrama del Modelo de Conceptos
+
+[http://jpa3icesi.googlecode.com/files/modelo_conceptos.jpg]
