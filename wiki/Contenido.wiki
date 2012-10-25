@@ -1,5 +1,4 @@
  * [Introduccion Introducción]
- * [InstalacionConfiguracion Instalación y Configuración]
  * [Documentos]
  * Proceso Análisis
   * [Requerimientos]
@@ -11,3 +10,5 @@
    * [DiagramaSecuencia Diagrama de Secuencia]
   * Diseño Arquitectural
    * [DiagramaComponentes Diagrama de Componentes]
+ * [InstalacionConfiguracion Instalación y Configuración]
+ * [Anexos]
