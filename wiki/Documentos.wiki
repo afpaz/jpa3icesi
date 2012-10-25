@@ -11,3 +11,5 @@ Para descargar el documento de Estrategia haga clic [http://jpa3icesi.googlecode
 *--------*
 
 También puede dirigirse a la página de [http://code.google.com/p/jpa3icesi/downloads/list Descargas del Sitio] y descargar los archivos directamente desde ahí.
+
+<g:plusone size="medium"></g:plusone>
