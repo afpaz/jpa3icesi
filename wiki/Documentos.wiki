@@ -8,5 +8,6 @@ Para descargar el documento de Lanzamietno haga clic [http://jpa3icesi.googlecod
 == Estrategia ==
 Para descargar el documento de Estrategia haga clic [http://jpa3icesi.googlecode.com/files/Estrategia.docx aquí]
 
+*--------*
 
 También puede dirigirse a la página de [http://code.google.com/p/jpa3icesi/downloads/list Descargas del Sitio] y descargar los archivos directamente desde ahí.
