@@ -5,3 +5,5 @@
   * [Requerimientos]
   * [CasosUso Casos de Uso]
   * [ModeloConceptos Modelo de Conceptos]
+  * [ModeloER Modelo Entidad Relación]
+ * Proceso Diseño
