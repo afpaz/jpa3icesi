@@ -25,3 +25,9 @@
  e. Diagrama de Componentes
 
  f. Diagramas de Secuencia para los casos de uso de la aplicación
+
+== Requerimientos en Detalle ==
+
+Para ver una especificación más detallada y gráfica de los requerimientos, clic [http://jpa3icesi.googlecode.com/files/Requerimientos-SAMI.pdf aqui]
+
+Para ver los Requerimientos *Arquitecturalmente Significativos* haga clic [http://jpa3icesi.googlecode.com/files/Requerimientos-Arquitecturalmente-Significativos.pdf aqui]
