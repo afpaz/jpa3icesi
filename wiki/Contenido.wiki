@@ -3,3 +3,5 @@
  * [Documentos]
  * Proceso Análisis
   * [Requerimientos]
+  * [CasosUso Casos de Uso]
+  * [ModeloConceptos Modelo de Conceptos]
