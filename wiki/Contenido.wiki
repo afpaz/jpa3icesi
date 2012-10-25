@@ -9,3 +9,4 @@
  * Proceso Diseño
   * Diseño Detallado
   * Diseño Arquitectural
+   * [DiagramaComponentes Diagrama de Componentes]
