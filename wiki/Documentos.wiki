@@ -3,4 +3,10 @@
 = Documentos =
 
 == Lanzamiento ==
-Para descargar el documento de Lanzamiento haga clic [http://jpa3icesi.googlecode.com/files/Estrategia.docx aquí]
+Para descargar el documento de Lanzamietno haga clic [http://jpa3icesi.googlecode.com/files/Lanzamiento.docx aquí]
+
+== Estrategia ==
+Para descargar el documento de Estrategia haga clic [http://jpa3icesi.googlecode.com/files/Estrategia.docx aquí]
+
+
+También puede dirigirse a la página de [Downloads Descargas del Sitio] y descargar los archivos directamente desde ahí.
