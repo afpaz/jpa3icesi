@@ -1,3 +1,5 @@
  * [Introduccion Introducción]
  * [InstalacionConfiguracion Instalación y Configuración]
  * [Documentos]
+
+<g:plusone size="medium"></g:plusone>
