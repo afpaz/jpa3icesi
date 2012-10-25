@@ -49,3 +49,5 @@ Para mayor información: http://backus1.uniandes.edu.co/~s2603b06/dokuwiki/doku.
 ===7) m2e-wtp===
 
 Desde la opción install new software de Eclipse utilizar el update site http://download.jboss.org/jbosstools/updates/m2eclipse-wtp. Seleccionar las opciones Maven Integration for Eclipse, y Maven Integration for WTP.
+
+<g:plusone size="medium"></g:plusone>
