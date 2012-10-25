@@ -1,2 +1,2 @@
- * [Introduccion]
- * [InstalacionConfiguracion] Instalación o Configuración
+ * [Introduccion Introducción]
+ * [InstalacionConfiguracion Instalación y Configuración]
