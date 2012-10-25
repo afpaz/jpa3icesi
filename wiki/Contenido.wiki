@@ -8,5 +8,6 @@
   * [ModeloER Modelo Entidad Relación]
  * Proceso Diseño
   * Diseño Detallado
+   * [DiagramaSecuencia Diagrama de Secuencia]
   * Diseño Arquitectural
    * [DiagramaComponentes Diagrama de Componentes]
