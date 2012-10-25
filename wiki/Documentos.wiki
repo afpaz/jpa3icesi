@@ -1,0 +1,6 @@
+#summary Lanzamiento y Estrategia
+
+= Documentos =
+
+== Lanzamiento ==
+Para descargar el documento de Lanzamiento haga clic [http://jpa3icesi.googlecode.com/files/Estrategia.docx aquí]
