@@ -1,0 +1,5 @@
+#summary One-sentence summary of this page.
+
+= Modelo Entidad Relación =
+
+[http://jpa3icesi.googlecode.com/files/ModeloConceptos.png]
