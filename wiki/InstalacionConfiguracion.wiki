@@ -36,13 +36,13 @@ Desde la vista Servers de Eclipse, definir un nuevo servidor usando el wizard. S
 
 Desde la vista Servers iniciar Glassfish y abrir la consola de administración de este. En el panel de tareas comunes abrir Resources > JDBC > JDBC Connection Pools y crear un nuevo Connection Pool.
 
- *A)* http://200.3.193.23/11.20.01.png
+ * http://200.3.193.23/11.20.01.png
 
- *B)* http://200.3.193.23/11.25.55.png
+ * http://200.3.193.23/11.25.55.png
 
- *C)* http://200.3.193.23/11.26.13.png
+ * http://200.3.193.23/11.26.13.png
 
- *D)* http://200.3.193.23/11.28.01.png
+ * http://200.3.193.23/11.28.01.png
 
 Para mayor información: http://backus1.uniandes.edu.co/~s2603b06/dokuwiki/doku.php?id=tutorial_aplicacion:mbd
 
