@@ -3,6 +3,7 @@
  * Proceso Análisis
   * [Requerimientos]
   * [CasosUso Casos de Uso]
+  * [DiagramaClases Diagrama de Clases]
   * [ModeloConceptos Modelo de Conceptos]
   * [ModeloER Modelo Entidad Relación]
  * Proceso Diseño
