@@ -6,6 +6,6 @@
 Para descargar el documento de Lanzamietno haga clic [http://jpa3icesi.googlecode.com/files/Lanzamiento.docx aquí]
 
 == Estrategia ==
-Para descargar el documento de Estrategia haga clic [ aquí]
+Para descargar el documento de Estrategia haga clic [http://jpa3icesi.googlecode.com/files/Estrategia2.docx aquí]
 
 <g:plusone size="medium"></g:plusone>
