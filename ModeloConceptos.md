@@ -1,0 +1,1 @@
+![http://jpa3icesi.googlecode.com/files/modelo_conceptos.jpg](http://jpa3icesi.googlecode.com/files/modelo_conceptos.jpg)
